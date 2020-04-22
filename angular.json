@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "datnek-ng-payment-cinetpay"
+    }
+  },
+  "defaultProject": "datnek-ng-payment-cinetpay",
+  "cli": {
+    "analytics": false
+  }
 }
